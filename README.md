@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodro-kumar&show_icons=true&locale=en&layout=compact" alt="rodro-kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodro-kumar&show_icons=true&locale=en" alt="rodro-kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodro-kumar&" alt="rodro-kumar" /></p>
