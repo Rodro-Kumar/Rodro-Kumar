@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Rodro Karmakar</h1>
+<h1 align="center"> Hello!👋 I'm Rodro Karmakar</h1>
 <h3 align="center">A Frontend Developer based in Dhaka ,Bangladesh. I'm passionate about coding ,web development, and I enjoy more.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rodro-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Rodro-Kumar" /> </p>
 
@@ -30,7 +30,7 @@
 <div >
 <a href="https://github.com/Rodro-Kumar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodro-Kumar&theme=2077" height="180em" />
-<div>
+<div >
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodro-Kumar&theme=2077" height="180em" />
 </div>
   
