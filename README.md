@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Rodro Karmakar, a Frontend Developer based in Dhaka ,Bangladesh. I'm passionate about coding ,web development, and I enjoy more.</h1>
+<h1 align="center"> Hello!👋 I'm Rodro Karmakar, a Frontend Developer. I'm passionate about coding ,web development, and I enjoy more.</h1>
 
 # 💫 About Me:
 🔭 I am currently working as a frontend developer<br>👯 I’m looking to collaborate on software company and respectable client to work and through that work I can learn more and experience new things.<br>🤝 I am looking for help in learning new technology & language<br>🌱I am currently learning new technologies and front end development tools constantly<br>💬 Ask me about Web development & also Frontend development<br>⚡ Fun fact After looking at my GitHub account I think you might want to work with me
