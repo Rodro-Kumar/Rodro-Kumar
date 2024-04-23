@@ -31,11 +31,6 @@
 <a href="https://github.com/Rodro-Kumar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodro-Kumar&theme=2077" height="180em" />
 <div >
-<a href="https://github.com/Rodro-Kumar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodro-Kumar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodro-Kumar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodro-Kumar&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodro-Kumar&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodro-Kumar&theme=aura_dark" height="180em" />
 </div>
 
