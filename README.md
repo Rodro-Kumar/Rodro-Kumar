@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100% , height:"60%" />
+<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%  />
 </div>  
   
 
@@ -34,9 +34,9 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
 <table border="0">
   <tr>
     <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifalmas&show_icons=true&locale=en" alt="arifalmas" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifalmas&show_icons=true&locale=en" alt="Rodro-Kumar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifalmas&show_icons=true&locale=en&layout=compact" alt="arifalmas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifalmas&show_icons=true&locale=en&layout=compact" alt="Rodro-Kumar" /></p>
   </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ Connect with me:
 </br>
 <a href="mailto:dev.rodro@gmail.com">
   <img style="margin: 5px"
-    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-arifalmasdev@gmail.com-brightgreen"
+    src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-dev.rodro@gmail.com-brightgreen"
     alt="emailAddress"
   />
 </a>
