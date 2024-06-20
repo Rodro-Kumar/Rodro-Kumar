@@ -36,7 +36,7 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
     <td>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodro-Kumar&show_icons=true&locale=en" alt="Rodro-Kumar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodro-Kumar_icons=true&locale=en&layout=compact" alt="Rodro-Kumar" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodro&hide_border=true&layout=compact" align="left" />  
   </td>
   </tr>
 </table>
