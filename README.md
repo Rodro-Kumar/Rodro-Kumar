@@ -38,23 +38,19 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifalmas&show_icons=true&locale=en&layout=compact" alt="arifalmas" /></p>
   </td>
-
-  <td>
-   <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/v2/lOoDTI0mRXT9lBprieUkt.png?type=default&r=4l4" width="356" alt="Arif Almas's Dev Card"/></a>
-  </td>
   </tr>
 </table>
 </br>
-<img  alt="gif" src="https://github.com/arifalmas/arifalmas/blob/main/img/wifi-gol.gif" width="50" height="50" /> 
+<img  alt="gif" src="https://media.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.gif?cid=790b76111elj2nnxqqpd2m6ucfuine5j76cg05y4nlks01n6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50" /> 
 Connect with me:
 </br>
 </br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/coder.arifalmas) [![Facebook](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arifalmasdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arifalmas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arifalmas)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/kumar.rodro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://medium.com/@dev.rodro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dev.rodro)
 </br>
-## 📧 For Business Inquiries:
+## 📩 For Business Inquiries:
 </br>
-<a href="mailto:arifalmasdev@gmail.com">
+<a href="mailto:dev.rodro@gmail.com">
   <img style="margin: 5px"
     src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-arifalmasdev@gmail.com-brightgreen"
     alt="emailAddress"
