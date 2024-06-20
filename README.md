@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100%" />
+<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" style="width: 100% , height:"60%" />
 </div>  
   
 
@@ -41,7 +41,7 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
   </tr>
 </table>
 </br>
-<img  alt="gif" src="https://media.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.gif?cid=790b76111elj2nnxqqpd2m6ucfuine5j76cg05y4nlks01n6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50" /> 
+<img  alt="gif" src="https://media.giphy.com/media/856zBNywYdamcDOTEt/giphy.gif?cid=790b76111elj2nnxqqpd2m6ucfuine5j76cg05y4nlks01n6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" height="50" /> 
 Connect with me:
 </br>
 </br>
