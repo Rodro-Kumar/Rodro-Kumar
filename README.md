@@ -1,5 +1,5 @@
 
-<img title="" src="C:\Users\Rodro\Downloads\GithubBanner.jpg" alt="Rodro's Github Banner" >
+<img title="" src="GithubBanner.jpg" alt="Rodro's Github Banner" >
    
 
 ### Hi here👋  
