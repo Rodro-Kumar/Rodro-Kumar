@@ -14,7 +14,7 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
 - 💡 Always exploring new technologies to stay ahead.  
   
 
-- 🌟Fun Fact: I think I go crazy trying to think of something new  
+- 🌟Fun Fact: I think I am crazy for coding and trying to learn something new  
   
 
 <br/>  
