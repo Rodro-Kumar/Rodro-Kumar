@@ -2,7 +2,7 @@
 <img title="" src="GithubBanner.jpg" alt="Rodro's Github Banner" >
    
 
-### Hi here👋  
+### Hi there👋  
   
 
 I am Rodro karmakar working as a frontend developer and trying to learn something every day. Constantly learning and exploring new technologies to sharpen my skills. My goal is to create seamless user experiences and delightful interactions. I'm obsessed with optimizing performance and code elegance  
