@@ -1,5 +1,5 @@
 
-<img title="" src="rodro banner.jpg" alt="Rodro's Github Banner" >
+<img title="" src="Linkden-Banner.png" alt="Rodro's Github Banner" >
    
 
 ### Hi there👋  
