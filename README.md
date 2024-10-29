@@ -14,7 +14,9 @@ I am Rodro karmakar working as a frontend developer and trying to learn somethin
 - 💡 Always exploring new technologies to stay ahead.  
   
 
-- 🌟Fun Fact: I get peace by solving problems  
+- 🌟Fun Fact: I get peace by solving problems <br/>
+
+- Portfolio here: https://rodrokarmakar-beta.vercel.app/
   
 
 <br/>  
